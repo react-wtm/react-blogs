@@ -7,6 +7,8 @@ react笔记博客
 * [react-native 清理缓存[mac]](https://github.com/react-wtm/react-blogs/issues/4)
 * [react-native: No bundle url present](https://github.com/react-wtm/react-blogs/issues/5)
 * [react-native:Unhandled JS Exception: Can't find variable: require](https://github.com/react-wtm/react-blogs/issues/6)
+* [react-native-expo:Failed building JavaScript bundle](https://github.com/react-wtm/react-blogs/issues/7)
+
 
 
 
