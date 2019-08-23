@@ -8,6 +8,8 @@ react笔记博客
 * [react-native: No bundle url present](https://github.com/react-wtm/react-blogs/issues/5)
 * [react-native:Unhandled JS Exception: Can't find variable: require](https://github.com/react-wtm/react-blogs/issues/6)
 * [react-native-expo:Failed building JavaScript bundle](https://github.com/react-wtm/react-blogs/issues/7)
+* [react-native: DatePickerIOS 组件无法展示](https://github.com/react-wtm/react-blogs/issues/8)
+
 
 
 
