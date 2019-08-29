@@ -10,7 +10,7 @@ react笔记博客
 * [react-native-expo:Failed building JavaScript bundle](https://github.com/react-wtm/react-blogs/issues/7)
 * [react-native: DatePickerIOS 组件无法展示](https://github.com/react-wtm/react-blogs/issues/8)
 * [react-native:安装react-native扩展包时报错 Invariant Violation: requireNativeComponent](https://github.com/react-wtm/react-blogs/issues/9)
-
+* [Expo开发解决问题的过程](https://github.com/react-wtm/react-blogs/issues/10)
 
 
 
